@@ -42,6 +42,7 @@ Trying to pursue a career in **Artificial Intelligence** and **Machine Learning*
 ## 🧠 Key Skills
 Python
 - `Pandas`, `NumPy`, `BeautifulSoup`, `Requests`, `OOP`. `SQlite3` \
+---
 Database
 - `PostgreSQL`, `SQLite`, `MySQL` \
 Excel

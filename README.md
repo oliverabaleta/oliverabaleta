@@ -41,21 +41,11 @@ Trying to pursue a career in **Artificial Intelligence** and **Machine Learning*
 
 ## 🧠 Key Skills
 ### Python `Pandas`, `NumPy`, `BeautifulSoup`, `Requests`, `OOP`. `SQlite3` 
-
-Database
-- `PostgreSQL`, `SQLite`, `MySQL` 
-
-Excel
-- `Advanced Functions`, `Pivot Tables`, `Charts`, `Macros`, `VBA`, `Automation` 
-
-Data Visuzation
-- `Power BI`, `Seaborn`, `Matplotlib`
-
-Other Skills 
-- `APIs`, `Web Scraping`
-
-Currently learning
-- `Airflow`, `Git`, `Spark`, `Docker`, `Cloud (AWS/GCP)`
+### Database `PostgreSQL`, `SQLite`, `MySQL` 
+### Excel `Advanced Functions`, `Pivot Tables`, `Charts`, `Macros`, `VBA`, `Automation` 
+### Data Visuzation `Power BI`, `Seaborn`, `Matplotlib`
+### Other Skills `APIs`, `Web Scraping`
+### Currently learning `Airflow`, `Git`, `Spark`, `Docker`, `Cloud (AWS/GCP)`
 
 ---
 

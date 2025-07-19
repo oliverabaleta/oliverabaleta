@@ -49,14 +49,14 @@ Trying to pursue a career in **Artificial Intelligence** and **Machine Learning*
 
 ## 📂 Featured Projects
 
-### 1. 🏗️ Project for Data Engineering
+ - 🏗️ **Project for Data Engineering**
 **Tools:** `Python`, `SQL`, `SQLite3`, `APIs`, `BeautifulSoup`  
 - Built end-to-end ETL pipeline  
 - Web scraping for real-time data
 - Logging for monitoring  
 📎 [Certificate](https://coursera.org/verify/specialization/MWPQA8LXGVEP)
 
-### 2. 📊 Yellevate Dispute Analysis (Bootcamp Project)
+- 📊 **Yellevate Dispute Analysis (Bootcamp Project)**
 **Tools:** `Excel`, `PostgreSQL`
 - Data cleaning and dashboard creation  
 - Root cause analysis of disputes  

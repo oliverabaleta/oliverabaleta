@@ -13,39 +13,36 @@ Trying to pursue a career in **Artificial Intelligence** and **Machine Learning*
 - 🏅 **Cum Laude**
 - 📊 Field **Data Engineering**, **Data Analysis**, and **Machine Learning Engineering**
 
-
-### 💻 Tech Tools: `Excel`, `VBA`, `Python`, `Java`, `MySQL`, `PostgreSQL`, `PowerBI`,
-
-### 📚 Currently Learning: 
-
-![Apache Airflow](https://img.shields.io/badge/-Airflow-017CEE?style=flat&logo=apache-airflow&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
----
-
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/-Airflow-017CEE?style=flat&logo=apache-airflow&logoColor=white)
-![Spark](https://img.shields.io/badge/-Apache%20Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Snowflake](https://img.shields.io/badge/-Snowflake-56B9EB?style=flat&logo=snowflake&logoColor=white)
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=black)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Database](https://img.shields.io/badge/-Database-0071dd?style=flat&logo=sqll&logoColor=white)
-![Excel](https://img.shields.io/badge/-Excel-1e6e42?style=flat&logo=sqll&logoColor=white)
-![Visuzation](https://img.shields.io/badge/-Visualization-3f2b8a?style=flat&logo=sqll&logoColor=white)
-
----
-
 ## 🧠 Key Skills
 - Python `Pandas`, `NumPy`, `BeautifulSoup`, `Requests`, `OOP`. `SQlite3` 
 - Database `PostgreSQL`, `SQLite`, `MySQL` 
 - Excel `Advanced Functions`, `Pivot Tables`, `Charts`, `Macros`, `VBA`, `Automation` 
 - Data Visuzation `Power BI`, `Seaborn`, `Matplotlib`
 - Other Skills `APIs`, `Web Scraping`
-- Currently learning `Airflow`, `Git`, `Spark`, `Docker`, `Cloud (AWS/GCP)`
+- Currently learning `Airflow`, `Git`, `Spark`, `Docker`, `Cloud (AWS/GCP)`, `MongoDB`
+
+---
+
+## 💻 Tech Tools: 
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Excel](https://img.shields.io/badge/-Excel-1e6e42?style=flat&logo=sqll&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-2677c7?style=flat&logo=1&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![SQlite](https://img.shields.io/badge/-sqlite-107fce?style=flat&logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-136494?style=flat&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power%20Bi-f0c811?style=flat&logo=powerbi&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-f8981c?style=flat&logo=powerbi&logoColor=white)
+
+### 📚 Currently Learning: 
+
+![Apache Airflow](https://img.shields.io/badge/-Airflow-017CEE?style=flat&logo=apache-airflow&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Spark](https://img.shields.io/badge/-Apache%20Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-ea4235?style=flat&logo=googlecloud&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 
 ---
 

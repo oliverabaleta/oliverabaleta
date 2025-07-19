@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Oliver Abaleta
 
 Welcome to my GitHub\
-a passionate data professional with interests in **Data Engineering**, **Data Analysis**, and **Machine Learning Engineering** \ 
+a passionate data professional with interests in **Data Engineering**, **Data Analysis**, and **Machine Learning Engineering**.\
 Currently, practicing **Python** and trying different ways to code in it.
 
 ## 🧠 Key Skills

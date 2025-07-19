@@ -5,6 +5,9 @@ I am a passionate data professional with interests in **Data Engineering**, **Da
 Currently coding and learning in **Python** as a hobby.
 Trying to pursue a career in **Artificial Intelligence** and **Machine Learning** 
 
+## 💼 About Me
+- d
+
 ## 🧠 Key Skills
 - Python (Pandas, NumPy, BeautifulSoup, Requests, OOP)
 - SQL (PostgreSQL, SQLite3)

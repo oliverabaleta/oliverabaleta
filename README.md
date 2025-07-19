@@ -11,7 +11,7 @@ Trying to pursue a career in **Artificial Intelligence** and **Machine Learning*
 
 - 🎓 **BS Computer Engineering**, STI College – Lucena  
 - 🏅 **Cum Laude**
-- 📊 Currently focused on **Data Engineering**, **Data Analysis**, and **Machine Learning Engineering**
+- 📊 Field **Data Engineering**, **Data Analysis**, and **Machine Learning Engineering**
 
 
 ### 💻 Tech Tools: `Excel`, `VBA`, `Python`, `Java`, `MySQL`, `PostgreSQL`, `PowerBI`,

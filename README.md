@@ -11,7 +11,7 @@ Trying to pursue a career in **Artificial Intelligence** and **Machine Learning*
 
 - 🎓 **BS Computer Engineering**, STI College – Lucena  
 - 🏅 **Cum Laude**
-- 📊 Field: **Data Engineering**, **Data Analysis**, and **Machine Learning Engineering**
+- 📊 Field **Data Engineering**, **Data Analysis**, and **Machine Learning Engineering**
 
 ## 🧠 Key Skills
 - Python `Pandas`, `NumPy`, `BeautifulSoup`, `Requests`, `OOP`. `SQlite3` 
@@ -36,10 +36,11 @@ Trying to pursue a career in **Artificial Intelligence** and **Machine Learning*
 
 ### 📚 Currently Learning: 
 
+![Tableau](https://img.shields.io/badge/-Tableau-041c74?style=flat&logo=tableau&logoColor=white)
 ![Apache Airflow](https://img.shields.io/badge/-Airflow-00c7d4?style=flat&logo=apache-airflow&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-f05133?style=flat&logo=git&logoColor=white)
 ![Spark](https://img.shields.io/badge/-Apache%20Spark-e25f21?style=flat&logo=apachespark&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-1d63ed?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-f05133?style=flat&logo=git&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-ea4235?style=flat&logo=googlecloud&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-252f3e?style=flat&logo=amazon-aws&logoColor=white)

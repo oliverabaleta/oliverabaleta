@@ -43,7 +43,7 @@ Trying to pursue a career in **Artificial Intelligence** and **Machine Learning*
 ![Git](https://img.shields.io/badge/-Git-f05133?style=flat&logo=git&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-ea4235?style=flat&logo=googlecloud&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-252f3e?style=flat&logo=amazon-aws&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-fc9404?style=flat&logo=amazon-aws&logoColor=white)
 
 ---
 

@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Oliver Abaleta
 
 Welcome to my GitHub\
-a passionate data professional with hands-onm experience in **ETL pipelines**, **Python automation**, and **data analysis**. 
-This repository showcases my hands-on projects, learning journey, and technical growth in the fields of **Data Engineering** and **Analytics**.
+a passionate data professional with interests in **Data Engineering**, **Data Analysis**, and **Machine Learning Engineering**\ 
+Currently, practicing **Python** and trying different ways to code in it.
 
 ## 🧠 Key Skills
 - Python (Pandas, NumPy, BeautifulSoup, Requests, OOP)

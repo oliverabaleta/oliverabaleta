@@ -1,6 +1,6 @@
 # Oliver Abaleta | Data Analytics & Engineering Portfolio
 
-👋 Hi, I'm Oliver — a passionate data professional with hands-onm experience in **ETL pipelines**, **Python automation**, and **data analysis**. 
+##👋 Hi, I'm Oliver — a passionate data professional with hands-onm experience in **ETL pipelines**, **Python automation**, and **data analysis**. 
 This repository showcases my hands-on projects, learning journey, and technical growth in the fields of **Data Engineering** and **Analytics**.
 
 ## 🧠 Key Skills

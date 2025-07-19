@@ -11,7 +11,7 @@ Trying to pursue a career in **Artificial Intelligence** and **Machine Learning*
 
 - 🎓 **BS Computer Engineering**, STI College – Lucena  
 - 🏅 **Cum Laude**
-- 📊 Field **Data Engineering**, **Data Analysis**, and **Machine Learning Engineering**
+- 📊 Field: **Data Engineering**, **Data Analysis**, and **Machine Learning Engineering**
 
 ## 🧠 Key Skills
 - Python `Pandas`, `NumPy`, `BeautifulSoup`, `Requests`, `OOP`. `SQlite3` 

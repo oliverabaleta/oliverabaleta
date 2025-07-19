@@ -40,8 +40,7 @@ Trying to pursue a career in **Artificial Intelligence** and **Machine Learning*
 ---
 
 ## 🧠 Key Skills
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-- `Pandas`, `NumPy`, `BeautifulSoup`, `Requests`, `OOP`. `SQlite3` 
+### Python `Pandas`, `NumPy`, `BeautifulSoup`, `Requests`, `OOP`. `SQlite3` 
 
 Database
 - `PostgreSQL`, `SQLite`, `MySQL` 

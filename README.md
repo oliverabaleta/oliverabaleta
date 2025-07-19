@@ -39,8 +39,9 @@ Trying to pursue a career in **Artificial Intelligence** and **Machine Learning*
 ---
 
 ## 🧠 Key Skills
-- Python (Pandas, NumPy, BeautifulSoup, Requests, OOP)
-- SQL (PostgreSQL, SQLite3)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+- (Pandas, NumPy, BeautifulSoup, Requests, OOP)
+- SQL (PostgreSQL, SQLite3, MySQL)
 - Excel (Advanced functions, Macros, VBA)
 - Data Visualization: Power BI, Seaborn, Matplotlib
 - Other tools: Git, APIs, Web Scraping

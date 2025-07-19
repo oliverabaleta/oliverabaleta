@@ -22,9 +22,6 @@ Trying to pursue a career in **Artificial Intelligence** and **Machine Learning*
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ---
 
-## 🔧 Technologies & Tools
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
@@ -35,15 +32,24 @@ Trying to pursue a career in **Artificial Intelligence** and **Machine Learning*
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Database](https://img.shields.io/badge/-Database-0071dd?style=flat&logo=sqll&logoColor=white)
+![Excel](https://img.shields.io/badge/-Excel-1e6e42?style=flat&logo=sqll&logoColor=white)
+![Visuzation](https://img.shields.io/badge/-Visualization-3f2b8a?style=flat&logo=sqll&logoColor=white)
 
 ---
 
 ## 🧠 Key Skills
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-- Pandas, NumPy, BeautifulSoup, Requests, OOP
-- SQL (PostgreSQL, SQLite3, MySQL)
-- Excel (Advanced functions, Macros, VBA)
-- Data Visualization: Power BI, Seaborn, Matplotlib
+Python
+- `Pandas`, `NumPy`, `BeautifulSoup`, `Requests`, `OOP`. `SQlite3`
+![Database](https://img.shields.io/badge/-Database-0071dd?style=flat&logo=sqll&logoColor=white)
+- PostgreSQL, SQLite, MySQL
+![Excel](https://img.shields.io/badge/-Excel-1e6e42?style=flat&logo=sqll&logoColor=white)
+- functions, Pivot Tables, Charts, Macros, VBA, Automation
+![Visuzation](https://img.shields.io/badge/-Visualization-3f2b8a?style=flat&logo=sqll&logoColor=white)
+- Power BI, Seaborn, Matplotlib
+
+
 - Other tools: Git, APIs, Web Scraping
 - Currently learning: Airflow, Spark, Docker, Cloud (AWS/GCP)
 

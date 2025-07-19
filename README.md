@@ -36,13 +36,13 @@ Trying to pursue a career in **Artificial Intelligence** and **Machine Learning*
 
 ### 📚 Currently Learning: 
 
-![Apache Airflow](https://img.shields.io/badge/-Airflow-017CEE?style=flat&logo=apache-airflow&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![Spark](https://img.shields.io/badge/-Apache%20Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/-Airflow-00c7d4?style=flat&logo=apache-airflow&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-f05133?style=flat&logo=git&logoColor=white)
+![Spark](https://img.shields.io/badge/-Apache%20Spark-e25f21?style=flat&logo=apachespark&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-1d63ed?style=flat&logo=docker&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-ea4235?style=flat&logo=googlecloud&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-252f3e?style=flat&logo=amazon-aws&logoColor=white)
 
 ---
 

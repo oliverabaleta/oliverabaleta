@@ -51,9 +51,9 @@ Trying to pursue a career in **Artificial Intelligence** and **Machine Learning*
 
  - 🏗️ **Project for Data Engineering**
 **Tools:** `Python`, `SQL`, `SQLite3`, `APIs`, `BeautifulSoup`  
-- Built end-to-end ETL pipeline  
-- Web scraping for real-time data
-- Logging for monitoring  
+-   Built end-to-end ETL pipeline  
+-   Web scraping for real-time data
+-   Logging for monitoring  
 📎 [Certificate](https://coursera.org/verify/specialization/MWPQA8LXGVEP)
 
 - 📊 **Yellevate Dispute Analysis (Bootcamp Project)**

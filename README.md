@@ -58,9 +58,9 @@ Trying to pursue a career in **Artificial Intelligence** and **Machine Learning*
 
 - 📊 **Yellevate Dispute Analysis (Bootcamp Project)**
 **Tools:** `Excel`, `PostgreSQL`
-- Data cleaning and dashboard creation  
-- Root cause analysis of disputes  
-- Worked in Agile team  
+Data cleaning and dashboard creation  
+Root cause analysis of disputes  
+Worked in Agile team  
 📝 [Read Case Study](https://medium.com/@oliverabaleta/yellevate-dispute-analysis-c3c829a100ce)
 ---
 
